@@ -1,0 +1,21 @@
+.aboutme-main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-image: url("../images/marjanblan-_kUxT8WkoeY-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 95vh;
+  padding-top: 10vh;
+}
+.aboutme-main img {
+  width: 35vh;
+  padding-left: 5vw;
+}
+.aboutme-main p {
+  width: 60vw;
+  color: blue;
+}
+.aboutme-main h1 {
+  color: blue;
+}

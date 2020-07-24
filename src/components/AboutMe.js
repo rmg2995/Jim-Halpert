@@ -3,7 +3,7 @@ import "../styles/AboutMe.css";
 class AboutMe extends Component {
   render() {
     return (
-      <div>
+      <div className="aboutme-main">
         <div>
           <h1>About</h1>
           <p>
@@ -21,7 +21,7 @@ class AboutMe extends Component {
             place.
           </p>
         </div>
-        <div>
+        <div className="small-pic">
           <img src={require("../images/aboutjim1.png")} />
           <img src={require("../images/aboutjim2.jpg")} />
           <img src={require("../images/aboutjim3.png")} />
