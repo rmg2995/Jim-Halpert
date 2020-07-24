@@ -9,7 +9,7 @@ class Navbar extends Component {
           <h1>JH</h1>
           <Link to="/aboutme">Big Tuna</Link>
           <Link to="/works">Works</Link>
-          <Link to="/contactme">Contact Me</Link>
+          <Link to="/contact">Contact Me</Link>
         </div>
       </div>
     );

@@ -6,6 +6,9 @@ class Home extends Component {
       <div className="home">
         <h1>Jim Halpert</h1>
         <h4>"blahblahblah"</h4>
+        {/* <img
+          src={require("../components/images/marjanblan-_kUxT8WkoeY-unsplash.jpg")}
+        />  */}
       </div>
     );
   }
