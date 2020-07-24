@@ -1,0 +1,37 @@
+.worksMiddle {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10vh;
+}
+
+.worksWords {
+  width: 50vw;
+  padding: 5vw;
+  text-align: left;
+  font-size: 150%;
+}
+
+.video {
+  width: 50vw;
+  padding: 5vw;
+}
+
+.printer-paper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.printer-paper .dunderblack {
+  width: 50vw;
+}
+/* .background-image {
+  background-image: url("../images/marjanblan-_kUxT8WkoeY-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 95vh;
+} */
+/* .img {
+  width: 100vw;
+} */

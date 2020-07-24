@@ -4,7 +4,7 @@ class AboutMe extends Component {
   render() {
     return (
       <div className="aboutme-main">
-        <div>
+        <div className="aboutWords">
           <h1>About</h1>
           <p>
             Jim is also in sales and is considered to be one of the "heroes" of
