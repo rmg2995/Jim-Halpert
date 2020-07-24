@@ -1,5 +1,12 @@
-/* body {
-  background-image: url("public/marjanblan-_kUxT8WkoeY-unsplash.jpg");
+.home {
+  background-image: url("../images/marjanblan-_kUxT8WkoeY-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-} */
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  margin: 8vw;
+}
