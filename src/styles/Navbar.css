@@ -1,0 +1,8 @@
+.nav-link {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+h1 {
+  font-family: Traveling_Typewriter;
+}
